@@ -1,2 +1,2 @@
-# CS-187
-Data Structures
+# Data Structures
+For CS 187
